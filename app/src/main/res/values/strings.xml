@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Money Manager</string>
+
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Salary</item>
+        <item>Business</item>
+        <item>Investment</item>
+        <item>Gift</item>
+        <item>Other Income</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Other Expense</item>
+    </string-array>
+</resources>
